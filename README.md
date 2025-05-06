@@ -9,9 +9,11 @@
 </a>
 </div>
 
-- 🔭 Hoje atuando com C#, ASP.NET MVC, .Net Core e .Net no Back-end e Angular no Front-end
-- 🌱 Estudando e me aprimorando em Typescript e sempre me atualizando com a evolução do C# e .Net 
-- 😄 Pronouns: ele/dele
+<div>
+  - 🔭 Hoje atuando com C#, ASP.NET MVC, .Net Core e .Net no Back-end e Angular no Front-end
+  - 🌱 Estudando e me aprimorando em Typescript e sempre me atualizando com a evolução do C# e .Net 
+  - 😄 Pronouns: ele/dele
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
