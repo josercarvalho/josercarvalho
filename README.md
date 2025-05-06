@@ -4,15 +4,25 @@
 
 <div>
   <a href="https://beacons.ai/josercarvalho">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=josercarvalho&show_icons=true&theme=radical&repo=github-readme-stats" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josercarvalho&repo=convoychat&theme=radical&layout-compact" />
-</a>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=josercarvalho&show_icons=true&theme=radical&repo=github-readme-stats" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josercarvalho&repo=convoychat&theme=radical&layout-compact" />
+  </a>
 </div>
 
+<br>
+
 <div>
-  - 🔭 Hoje atuando com C#, ASP.NET MVC, .Net Core e .Net no Back-end e Angular no Front-end
-  - 🌱 Estudando e me aprimorando em Typescript e sempre me atualizando com a evolução do C# e .Net 
-  - 😄 Pronouns: ele/dele
+  <ul>
+    <li>
+       🔭 Hoje atuando com C#, ASP.NET MVC, .Net Core e .Net no Back-end e Angular no Front-end      
+    </li>
+    <li>
+       🌱 Estudando e me aprimorando em Typescript e sempre me atualizando com a evolução do C# e .Net       
+    </li>
+    <li>
+       😄 Pronouns: ele/dele      
+    </li>
+  </ul>
 </div>
 
 <div style="display: inline_block"><br>
